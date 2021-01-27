@@ -1,6 +1,6 @@
 ---
-aws_account_id: 161285725140
-default_domain_name: clusterfrak-dynamics.io
+aws_account_id: 674715443267
+default_domain_name: cmcloudlab587.info
 prefix: pio
 project: teks
-tf_state_bucket_region: eu-west-3
+tf_state_bucket_region: us-east-1
